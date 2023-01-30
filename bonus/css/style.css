@@ -14,6 +14,11 @@ header {
     left: 10px;
 }
 
+.container {
+    margin: 0 100px;
+    
+}
+
 h1 {
     font-size: 60px;
     margin-bottom: 0;
@@ -22,7 +27,7 @@ h1 {
 
 .title p {
     color: lightgrey;
-    margin: 0;
+    margin-bottom: 0;
 }
 
 .title span {
@@ -31,6 +36,12 @@ h1 {
 
 .title .date {
     font-size: 12px;
+    margin-top: 0;
+}
+
+figure img {
+    width: 49%;
+    height: 500px;
 }
 
 .paragraph span {
