@@ -1,6 +1,7 @@
 header {
     background-image: url("../img/pattern.png");
     background-color: #87CEFA;
+    background-size: 40%;
     height: 150px;
     position: relative;  
     
@@ -45,5 +46,25 @@ th {
 
 .first-row, .third-row {
     background-color: #87CEFA;
+}
+
+.footer-text {
+    color: grey;
+}
+
+footer div {
+   height: 200px;
+   width: 300px;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+footer .img1 {
+    background-image: url(../img/graph.jpg);
+
+}
+
+footer .img2 {
+    background-image: url(../img/monitor.jpg);
 }
 
