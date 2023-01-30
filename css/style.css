@@ -31,3 +31,7 @@ h1 {
 .title .date {
     font-size: 12px;
 }
+
+.paragraph span {
+    background-color: yellow;
+}
