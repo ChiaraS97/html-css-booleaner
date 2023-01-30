@@ -1,0 +1,12 @@
+header {
+    background-image: url;
+    height: 150px;
+    position: relative;   
+}
+
+.logo {
+    width: 200px;
+    position: absolute;
+    bottom: 5px;
+    left: 10px;
+}
