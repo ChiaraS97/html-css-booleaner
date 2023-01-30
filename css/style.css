@@ -35,3 +35,15 @@ h1 {
 .paragraph span {
     background-color: yellow;
 }
+
+th {
+    min-width: 300px;
+    text-align: left;
+    color: white;
+    background-color: #00BFFF;
+}
+
+.first-row, .third-row {
+    background-color: #87CEFA;
+}
+
