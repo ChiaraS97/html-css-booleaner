@@ -12,3 +12,22 @@ header {
     bottom: 5px;
     left: 10px;
 }
+
+h1 {
+    font-size: 60px;
+    margin-bottom: 0;
+    margin-top: 15px;
+}
+
+.title p {
+    color: lightgrey;
+    margin: 0;
+}
+
+.title span {
+    color: 	#00BFFF;
+}
+
+.title .date {
+    font-size: 12px;
+}
